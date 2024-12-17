@@ -1,0 +1,10 @@
+{
+    "domain": "ha-dan-test-plugin",
+    "name": "ha-dan-test-plugin",
+    "codeowners": ["@dan22m"],
+    "documentation": "https://github.com/dan22m/ha-dan-test-plugin",
+    "iot_class": "cloud_polling",
+    "requirements": ["requests"],
+    "version": "1.0.0"
+  }
+  

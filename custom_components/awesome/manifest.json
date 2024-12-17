@@ -1,0 +1,9 @@
+{
+    "domain": "ha-dan-test-plugin",
+    "name": "ha-dan-test-plugin",
+    "version": "1.0.0",
+    "documentation": "https://github.com/dan22m/ha-dan-test-plugin",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@dan22m"]
+}

@@ -1,0 +1,7 @@
+my_service:
+  name: "ha-dan-test-plugin"
+  description: "This is a custom service."
+  fields:
+    example_field:
+      description: "Example input field."
+      example: "test"
